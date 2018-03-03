@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="DialogBody.align" value="4" />
+        <val key="Dzien.align" value="4" />
+        <val key="Dzien.bgColor" value="97bcf7" />
+        <font key="Dzien.font" type="ttf" face="0" style="1" size="16" name="native:MainBold" family="native:MainBold" sizeSettings="2" actualSize="12.0" />
+        <val key="Dzien.transparency" value="255" />
+        <val key="Form.bgImage" value="tlo.png" />
+        <val key="Form.bgType" value="1" />
+        <val key="LabelTop.bgColor" value="6666ff" />
+        <val key="LabelTop.fgColor" value="3333" />
+        <font key="LabelTop.font" type="system" face="0" style="1" size="0" />
+        <val key="LabelTop.transparency" value="255" />
+        <val key="LowLabel.bgColor" value="bacbe8" />
+        <val key="LowLabel.padding" value="0,0,0,0" />
+        <val key="LowLabel.transparency" value="255" />
+        <val key="SideCommand.align" value="4" />
+        <val key="SideCommand.bgColor" value="5189FF" />
+        <val key="SideCommand.fgColor" value="13171b" />
+        <font key="SideCommand.font" type="ttf" face="0" style="1" size="0" name="native:MainBold" family="native:MainBold" sizeSettings="1" actualSize="12.0" />
+        <val key="SideCommand.margin" value="20,0,0,0" />
+        <val key="SideCommand.padUnit" value="1,0,1,0" />
+        <val key="SideCommand.padding" value="1,1,0,0" />
+        <val key="SideCommand.transparency" value="255" />
+        <val key="SideNavigationPanel.bgColor" value="97bcf7" />
+        <val key="SideNavigationPanel.fgColor" value="0" />
+        <val key="SideNavigationPanel.transparency" value="255" />
+        <val key="TextArea.align" value="4" />
+        <val key="Toolbar.align" value="4" />
+    </theme>
+    <image name="tlo.png" type="multi"  />
+</resource>
